@@ -1,0 +1,22 @@
+{
+  "name": "SampleFramework",
+  "version": "0.1.0",
+  "summary": "A short description of SampleFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sridivya_tj/SampleFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sridivya_tj": "sridivya.b@techjini.com"
+  },
+  "source": {
+    "git": "https://github.com/sridivya_tj/SampleFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SampleFramework/Classes/**/*"
+}
